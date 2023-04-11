@@ -1,3 +1,16 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Realice un programa que			*
+ * 		imprima “Capicúa” si un número de		*
+ * 		entrada de cuatro dígitos es capicúa,	*
+ * 		o “No lo es” en caso contrario.			*
+ * 		Un número es capicúa si se escribe		*
+ * 		igual al derecho y al revés.			*
+ * 		Por ejemplo, 1551 es un número capicúa.	*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

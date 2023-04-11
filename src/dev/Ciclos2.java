@@ -1,3 +1,13 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Escribir un programa que pida	*
+ * 		al usuario un número entero y			*
+ * 		muestre por pantalla si es un número	*
+ * 		primo o no.								*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

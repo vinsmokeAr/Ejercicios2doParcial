@@ -1,3 +1,16 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Dada una secuencia de números	*
+ * 		terminada en cero, elaborar un			*
+ * 		algoritmo para calcular el porcentaje	*
+ * 		y la suma de los números impares, el	*
+ * 		porcentaje y la suma de los números		*
+ * 		pares, y la suma de todos los números,	*
+ * 		y cuántos números fueron ingresados.	*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

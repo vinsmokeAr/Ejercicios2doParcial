@@ -1,3 +1,14 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Escribir un programa que		*
+ * 		pida al usuario un número entero		*
+ * 		positivo y muestre por pantalla todos	*
+ * 		los números impares desde 1 hasta		*
+ * 		ese número.								*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

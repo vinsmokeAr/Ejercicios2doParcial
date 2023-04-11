@@ -1,3 +1,15 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: El IMC resulta de la división	*
+ * 		de la masa del individuo				*
+ * 		(en kilogramos) entre el cuadrado de la	*
+ * 		estatura (en metros). El índice de masa	*
+ * 		corporal es un indicador del peso de	*
+ * 		una persona en relación con su altura.	*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

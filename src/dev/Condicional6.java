@@ -1,3 +1,15 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Desarrolle un programa que		*
+ * 		reciba como entrada un número entre		*
+ * 		1 y 12 e imprima el nombre del mes		*
+ * 		correspondiente. Tome teniendo en		*
+ * 		cuenta, posibles valores erróneos en	*
+ * 		la entrada.								*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

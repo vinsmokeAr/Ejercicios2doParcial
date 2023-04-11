@@ -1,3 +1,14 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Escribir un programa que pida	*
+ * 		al usuario dos números y muestre por	*
+ * 		pantalla su división. Si el divisor		*
+ * 		es cero, el programa debe mostrar un	*
+ * 		mensaje de error.						*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

@@ -1,3 +1,14 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Escribir un programa que pida 	*
+ * 		al usuario dos números enteros y		*
+ * 		muestre por pantalla el siguiente		*
+ * 		mensaje: “<n> entre <m> da un cociente	* 
+ * 		<c> y un resto <r>”						*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

@@ -1,3 +1,17 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Escriba un programa que dado	*
+ * 		el peso de una persona en libras		*
+ * 		(1 libra=0.453592 Kg) y su estatura		*
+ * 		en centímetros, calcule su IMC e		*
+ * 		indique como salida el peso en			*
+ * 		kilogramos, el valor de IMC de la		*
+ * 		persona y la categoría en la cual fue	*
+ * 		clasificado.							*
+ ************************************************/
+
 package dev;
 import java.util.Scanner;
 

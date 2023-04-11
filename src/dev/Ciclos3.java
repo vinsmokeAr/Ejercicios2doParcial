@@ -1,3 +1,12 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Escriba un programa que			*
+ * 		calcule el valor 𝑛 aproximado de			*
+ * 		usando la serie:						*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

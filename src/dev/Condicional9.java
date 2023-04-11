@@ -1,3 +1,14 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Cree un algoritmo que tome		*
+ * 		como entrada la hora exacta (horas,		*
+ * 		minutos, segundos y AM/PM) e indique	*
+ * 		el número de segundos transcurridos		*
+ * 		durante ese día.						*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

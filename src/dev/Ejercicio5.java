@@ -1,3 +1,13 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Escriba un programa que, dadas	*
+ * 		las longitudes de los catetos de un		*
+ * 		triángulo rectángulo, calcule la 		*
+ * 		longitud de su hipotenusa.				*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;

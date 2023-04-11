@@ -1,3 +1,18 @@
+/************************************************
+ * Autor: Arleth Machuca Fabian					*
+ * Fecha de creación: 10 abr. 2023				*
+ * Fecha de modificación: 10 abr. 2023			*
+ * Descripción: Escriba un programa que reciba	*
+ * 		como entrada los coeficientes A, B y C	*
+ * 		de una ecuación de segundo grado, 		*
+ * 		e imprima por pantalla los valores de x.*
+ * 		Asuma que la ecuación siempre tiene		*
+ * 		solución en número reales. Recuerde		*
+ * 		que la solución de una ecuación de		*
+ * 		segundo viene dada por la				*
+ * 		formula general.						*
+ ************************************************/
+
 package dev;
 
 import java.util.Scanner;
